@@ -1,0 +1,23 @@
+{
+  "name": "Celestial",
+  "version": "2.3.1",
+  "description": "Discord Bot for personal server of Diffusion#4795",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "underscore": "^1.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "discord",
+    "youtube-dl",
+    "bot",
+    "diffusion"
+  ],
+  "author": "Diffusion",
+  "license": "GNU"
+}

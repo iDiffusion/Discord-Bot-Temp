@@ -1,0 +1,10 @@
+{
+  "apps": [{
+    "name": "Celestial",
+    "script": "./bot.js",
+    "watch": true,
+    "args": "--color",
+    "out_file": "../discord_out.txt",
+    "error_file": "../discord_error.txt"
+  }]
+}

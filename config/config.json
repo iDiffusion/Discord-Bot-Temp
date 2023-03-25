@@ -1,0 +1,16 @@
+[{
+  "Name": "Prisolis Gaming",
+  "ID": "548635022979235880",
+  "Prefix": "?",
+  "InvitePerm": "https://discord.gg/r74qWdf",
+  "InviteTemp": "https://discord.gg/r74qWdf",
+  "WelcomeMsg": "Welcome to Prisolis Gaming! We are so glad you could join us. We are a very open and accepting group of people. For all of the rules, please see #information , then head to #roles to obtain roles. If there is anything else you need, feel free to ask a `@Mod` or any other friendly face you see on. We hope you have fun and stick around. ##USER## ",
+  "GoodbyeMsg": "We're sad to see you go, if you would like to come back feel free to do so at any time. ##INVITELINK## "
+}, {
+  "Name": "Legends of Omnia",
+  "ID": "718525887804604508",
+  "Prefix": "?",
+  "InvitePerm": "https://discord.gg/mEDJsBH",
+  "InviteTemp": "https://discord.gg/pj9aJpx",
+  "WelcomeMsg": "Welcome ##USER## to Legends of Omnia! Please check out #discord-rules to get access to the rest of the discord! Have fun~!"
+}]
